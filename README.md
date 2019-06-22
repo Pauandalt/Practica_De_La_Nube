@@ -31,8 +31,10 @@ Con ello, se abre un nuevo escenario de seguridad debido a que los archivos del 
 Para visualizar estos peligros el alumno comprobará los archivos de voz que Google ha almacenado en su cuenta personal y que ahora se encuentran en internet. Puede que más de uno se lleve una sorpresa al encontrar archivos de voz que ni siquiera sabía que existían.
 Para ello, el alumno seguirá los siguientes pasos:
 
-#buscar los pasos de como ver los archivos de voz que Google tiene guardados de mí.
-1-	Busque 
++ En tu teléfono o tablet Android, abre la app de Configuración del dispositivo Google Cuenta de Google.
++ En la parte superior, presiona Datos y personalización.
++ En "Actividad y rutas", presiona Mi actividad.
++ En la barra de búsqueda, presiona Filtrar por fecha y producto y escoja tan solo los audios.
 
 
 
