@@ -40,9 +40,3 @@ Para ello, el alumno seguirá los siguientes pasos:
 + En la barra de búsqueda, presiona Filtrar por fecha y producto y escoja tan solo los audios.
 
 
-
-
-Datos tomados de: 
-+ [Link 1](https://www.xertica.com/computacion-en-la-nube-definicion-ejemplos-y-usos-practicos/)
-+ [Link 2](https://www.xertica.com/blog/spotify-google-cloud)
-+ [Link 3](https://cloud.google.com/customers/ubisoft/)
