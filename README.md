@@ -14,7 +14,9 @@ Empleando la cuentas proporcionadas por la universidad de navarra inicie sesión
 + Máximo almacenamiento que ofrece cada plataforma.
 + Libertad de uso.
 + ¿Más comentarios?
+
 ![alt text](Office_vs_Drive.png)
+
 ## GOOGLE LENS
 Para este apartado de la práctica se requiere que el alumno descargue en su dispositivo móvil la aplicación Google Lens. En caso de que el profesor no quiera hacer que el alumno descargue la aplicación puede mostrarla en su propio dispositivo.
 
