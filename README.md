@@ -22,7 +22,7 @@ Google Lens es una aplicación Web que permite identificar objetos médiate Inte
 
 Por tanto es un gran ejemplo de aplicaciones prácticas que pueden darse tanto a la inteligencia artificial como al almacenamiento en la nube.
 
-[alt text](google_lens.png)
+![alt text](google_lens.png)
 
 ## ANALISIS DE PELIGROS DE ALMACEMAMIETNO EN LA NUBE
 
