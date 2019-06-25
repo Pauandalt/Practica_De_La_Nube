@@ -39,4 +39,4 @@ Para ello, el alumno seguirá los siguientes pasos:
 + En "Actividad y rutas", presiona Mi actividad.
 + En la barra de búsqueda, presiona Filtrar por fecha y producto y escoja tan solo los audios.
 
-
+![alt text](ciber%20seguridad.jpg)
